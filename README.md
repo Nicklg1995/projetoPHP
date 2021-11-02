@@ -1,7 +1,7 @@
 # projetoPHP
 C R U D
 
- Caso queira saber sobre o funcionamento da programação montei um manual com imagens.
+ Caso queira saber sobre o funcionamento da programação montei um manual.dox com imagens.
  
 Bem-vindo ao sistema de cadastros e consultas de usuários.
 
